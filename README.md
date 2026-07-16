@@ -7,4 +7,5 @@ Slicers for Date, City, Category, Gender, Payment method.
 Tools: Power Bi, Excel.
 
 Screenshot below:
+
 !(Screenshot.png)
