@@ -1,4 +1,4 @@
-Retail Sales Dashboard built with Power Bi.
+ Retail Sales Dashboard built with Power Bi.
 Features:
 KPI Cards for Revenue, Orders, AOV, etc..
 Charts for Revenue by Categories, Revenue by city, Monthly Trend, etc..
